@@ -4,6 +4,6 @@
       <meta charset="utf-8">
   </head>
   <body>
-      HI. I'M <strong>GLOOMYGOOSE</strong>.
+      HI. I'M <strong><a href="http://cherrythelover.blogspot.com/">GLOOMYGOOSE</a></strong>.
   </body>
   </html>
